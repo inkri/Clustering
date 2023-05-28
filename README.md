@@ -1,2 +1,2 @@
 # Clustering
-Clustering
+Clustering and Dimensionality Reduction
